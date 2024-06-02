@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/background-color-generator/static/css/main.a997b433.css",
+    "main.js": "/background-color-generator/static/js/main.80bd322a.js",
+    "index.html": "/background-color-generator/index.html",
+    "main.a997b433.css.map": "/background-color-generator/static/css/main.a997b433.css.map",
+    "main.80bd322a.js.map": "/background-color-generator/static/js/main.80bd322a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a997b433.css",
+    "static/js/main.80bd322a.js"
+  ]
+}
